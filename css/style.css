@@ -1,0 +1,49 @@
+*{
+  font-family: 'Ubuntu', sans-serif;
+  color: black;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+#header{
+  padding: 10px;
+  position: fixed;
+  text-align: center;
+  background: #1E88E5;
+  opacity: .94;
+  width: 100%;
+}
+
+#header p{
+  color: white;
+  font-size: 25px;
+}
+
+#content{
+  padding-top: 50px;
+  text-align: center;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+#footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #1E88E5;
+  opacity: .94;
+  padding: 5px 0px;
+  text-align: center;
+}
+
+#footer i{
+  font-size: 10px;
+  color: white;
+}
+
+#footer a{
+  font-size: 10px;
+  color: white;
+  text-decoration: none;
+}
